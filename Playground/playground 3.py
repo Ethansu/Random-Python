@@ -14,6 +14,4 @@ def draw_star(size, color):
 
 draw_star(100, "blue")
 draw_star(100, "red")
-draw_star(100, "yellow")
-draw_star(100, "green")
-draw_star(100, "orange") 
+
