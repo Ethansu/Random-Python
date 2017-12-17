@@ -14,6 +14,10 @@ def draw_star(size, color):
 
 draw_star(100, "blue")
 draw_star(100, "red")
+<<<<<<< HEAD
 draw_star(100,"hahaha")
+=======
+draw_star(100000000,"black")
+>>>>>>> hahahah
 
 
